@@ -1,27 +1,34 @@
 {
   "files": {
-    "main.css": "/Pieces-of-Myself/static/css/main.0d7111e6.css",
-    "main.js": "/Pieces-of-Myself/static/js/main.29e98e41.js",
+    "main.css": "/Pieces-of-Myself/static/css/main.898f54c6.css",
+    "main.js": "/Pieces-of-Myself/static/js/main.dc7d4f04.js",
     "static/js/787.6b0c5608.chunk.js": "/Pieces-of-Myself/static/js/787.6b0c5608.chunk.js",
     "static/media/20230523-参谋长联席会议主席马克·米利关于如何避免大国战争的专访字幕.md": "/Pieces-of-Myself/static/media/20230523-参谋长联席会议主席马克·米利关于如何避免大国战争的专访字幕.bb8d05aaa01e09818292.md",
     "static/media/20230108-[回顾性报道] 中国战“疫”进入新阶段——我国因时因势优化疫情防控措施纪实.md": "/Pieces-of-Myself/static/media/20230108-[回顾性报道] 中国战“疫”进入新阶段——我国因时因势优化疫情防控措施纪实.2091dd40aadfb2bd119b.md",
     "static/media/20230309-ChatGPT的草蛇灰线.md": "/Pieces-of-Myself/static/media/20230309-ChatGPT的草蛇灰线.204ff81d39eb2685a2ab.md",
+    "static/media/20230608-Vision Pro感想.md": "/Pieces-of-Myself/static/media/20230608-Vision Pro感想.380a34d91ca64e62b504.md",
+    "static/media/20230604-中国两个静悄悄的弯道超车--超算和NAND.md": "/Pieces-of-Myself/static/media/20230604-中国两个静悄悄的弯道超车--超算和NAND.01b8370289a3ace4c00a.md",
+    "static/media/20230614-GPT实践.md": "/Pieces-of-Myself/static/media/20230614-GPT实践.8949136eeaba42e773d2.md",
+    "static/media/20230804-我的笔记本.md": "/Pieces-of-Myself/static/media/20230804-我的笔记本.4535d253fb48578737f4.md",
+    "static/media/20230831-极简主义与我的高端电脑：相悖的生活哲学.md": "/Pieces-of-Myself/static/media/20230831-极简主义与我的高端电脑：相悖的生活哲学.4012d05bd553c81a67c5.md",
     "static/media/20221125-看门狗：军团的游玩感想.md": "/Pieces-of-Myself/static/media/20221125-看门狗：军团的游玩感想.a663b1a05d4f327ec268.md",
     "static/media/about.md": "/Pieces-of-Myself/static/media/about.8b42c8150487d2f2297d.md",
+    "static/media/20230915-iPhone的纠结选择.md": "/Pieces-of-Myself/static/media/20230915-iPhone的纠结选择.cf2402cb8a058c9fd1ed.md",
     "static/media/20221209-12月9日新十条发布后的一点想法.md": "/Pieces-of-Myself/static/media/20221209-12月9日新十条发布后的一点想法.927c38f738fbd7dc103a.md",
     "static/media/20220119-react-markdown.md": "/Pieces-of-Myself/static/media/20220119-react-markdown.a6d32bc9545ac26d7717.md",
+    "static/media/short.md": "/Pieces-of-Myself/static/media/short.b26b653db29ced920c08.md",
     "static/media/20230424-关于星舰试验的一些想法.md": "/Pieces-of-Myself/static/media/20230424-关于星舰试验的一些想法.8f4b5910b8b1de4e8f88.md",
     "index.html": "/Pieces-of-Myself/index.html",
-    "static/media/short.md": "/Pieces-of-Myself/static/media/short.a006b57169b126e3b321.md",
+    "static/media/20491231-一些预测.md": "/Pieces-of-Myself/static/media/20491231-一些预测.1a79dfa93b32c00a2661.md",
     "static/media/title.md": "/Pieces-of-Myself/static/media/title.9fb09dc2c0c2bbebafbf.md",
     "static/media/20221231-另一个作品 SpaceX Information System.md": "/Pieces-of-Myself/static/media/20221231-另一个作品 SpaceX Information System.9e606bb58e65ff3bc5b4.md",
     "static/media/20230101-新年快乐.md": "/Pieces-of-Myself/static/media/20230101-新年快乐.181bf491d418b31397fc.md",
-    "main.0d7111e6.css.map": "/Pieces-of-Myself/static/css/main.0d7111e6.css.map",
-    "main.29e98e41.js.map": "/Pieces-of-Myself/static/js/main.29e98e41.js.map",
+    "main.898f54c6.css.map": "/Pieces-of-Myself/static/css/main.898f54c6.css.map",
+    "main.dc7d4f04.js.map": "/Pieces-of-Myself/static/js/main.dc7d4f04.js.map",
     "787.6b0c5608.chunk.js.map": "/Pieces-of-Myself/static/js/787.6b0c5608.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d7111e6.css",
-    "static/js/main.29e98e41.js"
+    "static/css/main.898f54c6.css",
+    "static/js/main.dc7d4f04.js"
   ]
 }
